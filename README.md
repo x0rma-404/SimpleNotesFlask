@@ -16,7 +16,6 @@ Tired of sticky notes everywhere? 🤯 Meet your new digital notebook! This simp
 ⚡ **Preview**
 
 ![App Screenshot](./screenshots/notes-screenshot1.png)
-*Add and delete notes with ease!*
 ![App Screenshot](./screenshots/notes-screenshot.png)
 ---
 
