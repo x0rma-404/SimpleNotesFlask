@@ -1,9 +1,9 @@
-📝 **Flask Notes Fun App**
+#📝 **Flask Notes Fun App**
 Tired of sticky notes everywhere? 🤯 Meet your new digital notebook! This simple Flask web app lets you add, delete, and view your notes — all stored safely in a JSON file. 💻✨
 
 ---
 
-🚀 **Features**
+#🚀 **Features**
 
 * Add & delete notes like a boss 📝💪
 * View all your notes in one place 👀
@@ -13,13 +13,13 @@ Tired of sticky notes everywhere? 🤯 Meet your new digital notebook! This simp
 
 ---
 
-⚡ **Preview**
+#⚡ **Preview**
 
 ![App Screenshot](./screenshots/notes-screenshot1.png)
 ![App Screenshot](./screenshots/notes-screenshot.png)
 ---
 
-⚙️ **How to Run**
+#⚙️ **How to Run**
 
 1. Clone this repo:
 
@@ -50,7 +50,7 @@ Add your notes, delete the ones you don’t need, and stay organized! 🎯
 
 ---
 
-🛠 **Built With**
+#🛠 **Built With**
 
 * Python 🐍
 * Flask ⚡
@@ -58,7 +58,7 @@ Add your notes, delete the ones you don’t need, and stay organized! 🎯
 
 ---
 
-💡 **Future Fun Ideas**
+#💡 **Future Fun Ideas**
 
 * Add user authentication 🔒
 * Sort notes by date or importance 📅⭐
@@ -67,5 +67,5 @@ Add your notes, delete the ones you don’t need, and stay organized! 🎯
 
 ---
 
-📄 **License**
+#📄 **License**
 No License — do whatever you want with it 😎
