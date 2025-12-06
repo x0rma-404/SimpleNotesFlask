@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Notes</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Flask Notes</h1>
+    <div>
+        <input type="text" id="noteInput" placeholder="Write a note">
+        <button onclick="addNote()">Add</button>
+    </div>
+    <ul id="noteList"></ul>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
