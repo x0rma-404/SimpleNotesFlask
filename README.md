@@ -4,7 +4,7 @@ Tired of sticky notes everywhere? 🤯 Meet your new digital notebook! This simp
 
 ---
 
-## 🚀 Features
+## 🚀 Feature
 
 * Add & delete notes like a boss 📝💪
 * View all your notes in one place 👀
