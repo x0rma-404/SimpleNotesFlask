@@ -26,7 +26,7 @@ Tired of sticky notes everywhere? 🤯 Meet your new digital notebook! This simp
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/flask-notes-app.git
+git clone https://github.com/x0rma-404/SimpleNotesFlask.git
 cd flask-notes-app
 ```
 
